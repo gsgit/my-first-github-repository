@@ -3,3 +3,5 @@ This line was replaced in feature two branch.
 This line was added in feature two branch.
 
 Another modification.
+
+Edit feature-s
