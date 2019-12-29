@@ -1,1 +1,3 @@
-Just another file
+This line was replaced in feature two branch.
+
+This line was added in feature two branch.
